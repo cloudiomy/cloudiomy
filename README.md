@@ -1,7 +1,4 @@
-- 👋 Welcome to Cloudio
-- 🌱 We provide Autoscript (Ubuntu 20.04 LTS|Debian 10 Buster) to Bypass Telco Speed and Quota (Unlimited)
-- 💞️ Use my script to bypass telco | *Maxis* | *UMobile* | *Digi* |
-- 📫 Feel free to contact at Telegram @cloudio_admin or cloudiomy@gmail.com
+- 👋 Welcome to Cloudio (SMK Dato' Ahmad Maher IT Management)
 
 <!---
 enterues-cloud/enterues-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
